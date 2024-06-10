@@ -1,6 +1,6 @@
 # codigo para hacer tablas con html
 
-<html>
+<!--<html>
    <BODY bgcolor="olive">
         <div align="center">
             <TABLE BORDER>
@@ -33,5 +33,5 @@
                 </TABLE>
                 
         </div>
-</html>
+</html> -->
    
