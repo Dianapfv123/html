@@ -1,8 +1,5 @@
 # codigo para hacer tablas con html
 
-<!--<html>
-   <BODY bgcolor="olive">
-        <div align="center">
             <TABLE BORDER>
                 <CAPTION> CALIFICACIONES DE LOS PARCIALES DEL PRIMER SEMESTRE</CAPTION>
                 <TR>
@@ -31,7 +28,3 @@
                     <TD>CAL 6</TD> <TD>CAL 10</TD> <TD>CAL 7</TD>
                     </TR>
                 </TABLE>
-                
-        </div>
-</html> -->
-   
